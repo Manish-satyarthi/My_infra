@@ -1,0 +1,16 @@
+Basic Linux Command
+
+-------------------------------------------
+
+
+
+whoami
+ls
+pwd
+cd
+mkdir
+touch
+nano
+sudo apt update
+sudo apt upgrade
+sudo apt install nginx
